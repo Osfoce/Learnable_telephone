@@ -17,6 +17,6 @@ The telephone class should also maintain a list of observers and notify them whe
 5. Add two observers to the telephone class
 
 ### Notification message
-  The first one should print the <u>phone number</u>
+  The first one should print the <u> phone number </u>,
   The second one should print `Now Dialling 2347023232`
 
